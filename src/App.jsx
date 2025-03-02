@@ -86,7 +86,7 @@ function App() {
               <li>End-to-end encryption for tip submissions</li>
             </ul>
             <a
-              href="http://localhost:5174/"
+              href="https://ghost-d-app.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-green-400 text-md md:text-lg font-medium px-6 py-3 border border-green-400/40 hover:border-green-400 hover:bg-green-400/10 transition-all duration-300"
@@ -116,7 +116,7 @@ function App() {
               <li>Real-time detection reports</li>
             </ul>
             <a
-              href="http://localhost:5176/"
+              href="https://ai-buster.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-violet-800 text-md md:text-lg font-medium px-6 py-3 border border-violet-800/40 hover:border-violet-800 hover:bg-violet-800/10 transition-all duration-300"
